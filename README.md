@@ -22,5 +22,7 @@ City hotels and Resort hotel have seen high cancellation rate each Hotel is now 
 🔆 Key Highlights of the Projects :
 
 ✳ Importing data in the Jupiter notebook.
+
 ✳ Data cleaning (functions: rename, replace, info, describe, shape, removing null values)
+
 ✳ Analysis and visualization ( bar charts, count plot, pie chart )
